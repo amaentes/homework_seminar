@@ -1,12 +1,15 @@
-﻿
+﻿int a;
+int b;
 Console.WriteLine("Введите сначала число а, потом b");
-Console.ReadLine("a");
-Console.ReadLine("b");
-if(a > b);
+a = Convert.ToInt32(Console.ReadLine());
+b = Convert.ToInt32(Console.ReadLine());
+if(a > b)
 {
-    Console.WriteLine("a большее число, b меньшее число");
+  Console.WriteLine("Большее число {0}", a);
+  Console.WriteLine("Меньшее число {0}", b);
 }
 else
 {
-  Console.WriteLine("b большее число, a меньшее число");  
+  Console.WriteLine("Большее число {0}", b);
+  Console.WriteLine("Меньшее число {0}", a);  
 }

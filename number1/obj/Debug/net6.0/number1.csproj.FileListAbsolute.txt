@@ -3,3 +3,13 @@
 /Users/alexey/Desktop/hm_seminar/number1/obj/Debug/net6.0/number1.AssemblyInfoInputs.cache
 /Users/alexey/Desktop/hm_seminar/number1/obj/Debug/net6.0/number1.AssemblyInfo.cs
 /Users/alexey/Desktop/hm_seminar/number1/obj/Debug/net6.0/number1.csproj.CoreCompileInputs.cache
+/Users/alexey/Desktop/hm_seminar/number1/bin/Debug/net6.0/number1
+/Users/alexey/Desktop/hm_seminar/number1/bin/Debug/net6.0/number1.deps.json
+/Users/alexey/Desktop/hm_seminar/number1/bin/Debug/net6.0/number1.runtimeconfig.json
+/Users/alexey/Desktop/hm_seminar/number1/bin/Debug/net6.0/number1.dll
+/Users/alexey/Desktop/hm_seminar/number1/bin/Debug/net6.0/number1.pdb
+/Users/alexey/Desktop/hm_seminar/number1/obj/Debug/net6.0/number1.dll
+/Users/alexey/Desktop/hm_seminar/number1/obj/Debug/net6.0/refint/number1.dll
+/Users/alexey/Desktop/hm_seminar/number1/obj/Debug/net6.0/number1.pdb
+/Users/alexey/Desktop/hm_seminar/number1/obj/Debug/net6.0/number1.genruntimeconfig.cache
+/Users/alexey/Desktop/hm_seminar/number1/obj/Debug/net6.0/ref/number1.dll
