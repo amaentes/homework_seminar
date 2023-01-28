@@ -23,7 +23,7 @@ else if (c > a && c > b)
 }
 else
 {
-    Console.WriteLine("Числа равны");
+    Console.WriteLine("Числа равны между собой");
 }
 
 
