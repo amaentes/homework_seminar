@@ -1,6 +1,6 @@
 ﻿// Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
-int max;
+int max = 0;
 int b;
 int a;
 int c;
@@ -19,11 +19,9 @@ else if (b > c && b > a)
 else if (c > a && c > b)
 {
     max = c;
-    Console.WriteLine("Большее число {0}", max);
 }
 else
 {
     Console.WriteLine("Числа равны между собой");
 }
-
-
+Console.WriteLine("Большее число {0}", max);
