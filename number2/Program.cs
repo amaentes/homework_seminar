@@ -8,24 +8,22 @@ Console.WriteLine("Введите три числа");
 a = Convert.ToInt32(Console.ReadLine());
 b = Convert.ToInt32(Console.ReadLine());
 c = Convert.ToInt32(Console.ReadLine());
-if(a > b && a > c)
+if (a > b && a > c)
 {
   max = a;
 }
+else if (b > c && b > a)
+{
+  max = b;
+}
+else if (c > a && c > b)
+{
+  max = c;
+  Console.WriteLine("Большее число {0}", max);
+}
 else
-  if(b > c && b > a)
-  {
-    max = b; 
-  }
-  else
-    if(c > a && c > b)
-    {
-      max = c; 
-      Console.WriteLine("Большее число {0}", max);
-    }
-    else
-    {
-      Console.WriteLine("Числа равны");
-    }
-    
-    
+{
+  Console.WriteLine("Числа равны");
+}
+
+
