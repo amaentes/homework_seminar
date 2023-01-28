@@ -1,7 +1,7 @@
 ﻿// Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
-int = max;
-int b = max;
+int max;
+int b;
 int a;
 int c;
 Console.WriteLine("Введите три числа");
@@ -19,5 +19,5 @@ else
   }
   else
     {
-      Console.WriteLine("Большее число {0}", c);
+      Console.WriteLine("Большее число {0}", max);
     }
