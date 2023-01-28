@@ -10,20 +10,20 @@ b = Convert.ToInt32(Console.ReadLine());
 c = Convert.ToInt32(Console.ReadLine());
 if (a > b && a > c)
 {
-  max = a;
+    max = a;
 }
 else if (b > c && b > a)
 {
-  max = b;
+    max = b;
 }
 else if (c > a && c > b)
 {
-  max = c;
-  Console.WriteLine("Большее число {0}", max);
+    max = c;
+    Console.WriteLine("Большее число {0}", max);
 }
 else
 {
-  Console.WriteLine("Числа равны");
+    Console.WriteLine("Числа равны");
 }
 
 
