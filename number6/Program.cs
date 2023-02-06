@@ -3,9 +3,12 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
-long a;
+long a; //double
 Console.WriteLine("Введите число");
 a = Convert.ToInt32(Console.ReadLine());
+
+// double (int)a
+
 if (a % 1 == 0 & -100 < a & a < 100)
 {
     Console.WriteLine("Третьей цифры нет");
