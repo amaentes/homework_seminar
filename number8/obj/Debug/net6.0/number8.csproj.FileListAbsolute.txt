@@ -1,0 +1,15 @@
+/Users/alexey/Desktop/hm_seminar/number8/obj/Debug/net6.0/number8.csproj.AssemblyReference.cache
+/Users/alexey/Desktop/hm_seminar/number8/obj/Debug/net6.0/number8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexey/Desktop/hm_seminar/number8/obj/Debug/net6.0/number8.AssemblyInfoInputs.cache
+/Users/alexey/Desktop/hm_seminar/number8/obj/Debug/net6.0/number8.AssemblyInfo.cs
+/Users/alexey/Desktop/hm_seminar/number8/obj/Debug/net6.0/number8.csproj.CoreCompileInputs.cache
+/Users/alexey/Desktop/hm_seminar/number8/bin/Debug/net6.0/number8
+/Users/alexey/Desktop/hm_seminar/number8/bin/Debug/net6.0/number8.deps.json
+/Users/alexey/Desktop/hm_seminar/number8/bin/Debug/net6.0/number8.runtimeconfig.json
+/Users/alexey/Desktop/hm_seminar/number8/bin/Debug/net6.0/number8.dll
+/Users/alexey/Desktop/hm_seminar/number8/bin/Debug/net6.0/number8.pdb
+/Users/alexey/Desktop/hm_seminar/number8/obj/Debug/net6.0/number8.dll
+/Users/alexey/Desktop/hm_seminar/number8/obj/Debug/net6.0/refint/number8.dll
+/Users/alexey/Desktop/hm_seminar/number8/obj/Debug/net6.0/number8.pdb
+/Users/alexey/Desktop/hm_seminar/number8/obj/Debug/net6.0/number8.genruntimeconfig.cache
+/Users/alexey/Desktop/hm_seminar/number8/obj/Debug/net6.0/ref/number8.dll
