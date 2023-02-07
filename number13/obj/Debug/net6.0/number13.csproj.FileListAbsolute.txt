@@ -1,0 +1,15 @@
+/Users/alexey/Desktop/hm_seminar/number13/obj/Debug/net6.0/number13.csproj.AssemblyReference.cache
+/Users/alexey/Desktop/hm_seminar/number13/obj/Debug/net6.0/number13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexey/Desktop/hm_seminar/number13/obj/Debug/net6.0/number13.AssemblyInfoInputs.cache
+/Users/alexey/Desktop/hm_seminar/number13/obj/Debug/net6.0/number13.AssemblyInfo.cs
+/Users/alexey/Desktop/hm_seminar/number13/obj/Debug/net6.0/number13.csproj.CoreCompileInputs.cache
+/Users/alexey/Desktop/hm_seminar/number13/bin/Debug/net6.0/number13
+/Users/alexey/Desktop/hm_seminar/number13/bin/Debug/net6.0/number13.deps.json
+/Users/alexey/Desktop/hm_seminar/number13/bin/Debug/net6.0/number13.runtimeconfig.json
+/Users/alexey/Desktop/hm_seminar/number13/bin/Debug/net6.0/number13.dll
+/Users/alexey/Desktop/hm_seminar/number13/bin/Debug/net6.0/number13.pdb
+/Users/alexey/Desktop/hm_seminar/number13/obj/Debug/net6.0/number13.dll
+/Users/alexey/Desktop/hm_seminar/number13/obj/Debug/net6.0/refint/number13.dll
+/Users/alexey/Desktop/hm_seminar/number13/obj/Debug/net6.0/number13.pdb
+/Users/alexey/Desktop/hm_seminar/number13/obj/Debug/net6.0/number13.genruntimeconfig.cache
+/Users/alexey/Desktop/hm_seminar/number13/obj/Debug/net6.0/ref/number13.dll
