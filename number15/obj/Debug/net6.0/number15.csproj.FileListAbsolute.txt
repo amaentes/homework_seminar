@@ -1,0 +1,15 @@
+/Users/alexey/Desktop/hm_seminar/number15/bin/Debug/net6.0/number15
+/Users/alexey/Desktop/hm_seminar/number15/bin/Debug/net6.0/number15.deps.json
+/Users/alexey/Desktop/hm_seminar/number15/bin/Debug/net6.0/number15.runtimeconfig.json
+/Users/alexey/Desktop/hm_seminar/number15/bin/Debug/net6.0/number15.dll
+/Users/alexey/Desktop/hm_seminar/number15/bin/Debug/net6.0/number15.pdb
+/Users/alexey/Desktop/hm_seminar/number15/obj/Debug/net6.0/number15.csproj.AssemblyReference.cache
+/Users/alexey/Desktop/hm_seminar/number15/obj/Debug/net6.0/number15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexey/Desktop/hm_seminar/number15/obj/Debug/net6.0/number15.AssemblyInfoInputs.cache
+/Users/alexey/Desktop/hm_seminar/number15/obj/Debug/net6.0/number15.AssemblyInfo.cs
+/Users/alexey/Desktop/hm_seminar/number15/obj/Debug/net6.0/number15.csproj.CoreCompileInputs.cache
+/Users/alexey/Desktop/hm_seminar/number15/obj/Debug/net6.0/number15.dll
+/Users/alexey/Desktop/hm_seminar/number15/obj/Debug/net6.0/refint/number15.dll
+/Users/alexey/Desktop/hm_seminar/number15/obj/Debug/net6.0/number15.pdb
+/Users/alexey/Desktop/hm_seminar/number15/obj/Debug/net6.0/number15.genruntimeconfig.cache
+/Users/alexey/Desktop/hm_seminar/number15/obj/Debug/net6.0/ref/number15.dll
