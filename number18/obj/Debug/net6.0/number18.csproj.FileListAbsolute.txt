@@ -1,0 +1,15 @@
+/Users/alexey/Desktop/hm_seminar/number18/bin/Debug/net6.0/number18
+/Users/alexey/Desktop/hm_seminar/number18/bin/Debug/net6.0/number18.deps.json
+/Users/alexey/Desktop/hm_seminar/number18/bin/Debug/net6.0/number18.runtimeconfig.json
+/Users/alexey/Desktop/hm_seminar/number18/bin/Debug/net6.0/number18.dll
+/Users/alexey/Desktop/hm_seminar/number18/bin/Debug/net6.0/number18.pdb
+/Users/alexey/Desktop/hm_seminar/number18/obj/Debug/net6.0/number18.csproj.AssemblyReference.cache
+/Users/alexey/Desktop/hm_seminar/number18/obj/Debug/net6.0/number18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexey/Desktop/hm_seminar/number18/obj/Debug/net6.0/number18.AssemblyInfoInputs.cache
+/Users/alexey/Desktop/hm_seminar/number18/obj/Debug/net6.0/number18.AssemblyInfo.cs
+/Users/alexey/Desktop/hm_seminar/number18/obj/Debug/net6.0/number18.csproj.CoreCompileInputs.cache
+/Users/alexey/Desktop/hm_seminar/number18/obj/Debug/net6.0/number18.dll
+/Users/alexey/Desktop/hm_seminar/number18/obj/Debug/net6.0/refint/number18.dll
+/Users/alexey/Desktop/hm_seminar/number18/obj/Debug/net6.0/number18.pdb
+/Users/alexey/Desktop/hm_seminar/number18/obj/Debug/net6.0/number18.genruntimeconfig.cache
+/Users/alexey/Desktop/hm_seminar/number18/obj/Debug/net6.0/ref/number18.dll
