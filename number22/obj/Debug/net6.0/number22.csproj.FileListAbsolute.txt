@@ -1,0 +1,15 @@
+/Users/alexey/Desktop/hm_seminar/number22/bin/Debug/net6.0/number22
+/Users/alexey/Desktop/hm_seminar/number22/bin/Debug/net6.0/number22.deps.json
+/Users/alexey/Desktop/hm_seminar/number22/bin/Debug/net6.0/number22.runtimeconfig.json
+/Users/alexey/Desktop/hm_seminar/number22/bin/Debug/net6.0/number22.dll
+/Users/alexey/Desktop/hm_seminar/number22/bin/Debug/net6.0/number22.pdb
+/Users/alexey/Desktop/hm_seminar/number22/obj/Debug/net6.0/number22.csproj.AssemblyReference.cache
+/Users/alexey/Desktop/hm_seminar/number22/obj/Debug/net6.0/number22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexey/Desktop/hm_seminar/number22/obj/Debug/net6.0/number22.AssemblyInfoInputs.cache
+/Users/alexey/Desktop/hm_seminar/number22/obj/Debug/net6.0/number22.AssemblyInfo.cs
+/Users/alexey/Desktop/hm_seminar/number22/obj/Debug/net6.0/number22.csproj.CoreCompileInputs.cache
+/Users/alexey/Desktop/hm_seminar/number22/obj/Debug/net6.0/number22.dll
+/Users/alexey/Desktop/hm_seminar/number22/obj/Debug/net6.0/refint/number22.dll
+/Users/alexey/Desktop/hm_seminar/number22/obj/Debug/net6.0/number22.pdb
+/Users/alexey/Desktop/hm_seminar/number22/obj/Debug/net6.0/number22.genruntimeconfig.cache
+/Users/alexey/Desktop/hm_seminar/number22/obj/Debug/net6.0/ref/number22.dll
