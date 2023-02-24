@@ -1,0 +1,15 @@
+/Users/alexey/Desktop/hm_seminar/number29/obj/Debug/net6.0/number29.csproj.AssemblyReference.cache
+/Users/alexey/Desktop/hm_seminar/number29/obj/Debug/net6.0/number29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexey/Desktop/hm_seminar/number29/obj/Debug/net6.0/number29.AssemblyInfoInputs.cache
+/Users/alexey/Desktop/hm_seminar/number29/obj/Debug/net6.0/number29.AssemblyInfo.cs
+/Users/alexey/Desktop/hm_seminar/number29/obj/Debug/net6.0/number29.csproj.CoreCompileInputs.cache
+/Users/alexey/Desktop/hm_seminar/number29/bin/Debug/net6.0/number29
+/Users/alexey/Desktop/hm_seminar/number29/bin/Debug/net6.0/number29.deps.json
+/Users/alexey/Desktop/hm_seminar/number29/bin/Debug/net6.0/number29.runtimeconfig.json
+/Users/alexey/Desktop/hm_seminar/number29/bin/Debug/net6.0/number29.dll
+/Users/alexey/Desktop/hm_seminar/number29/bin/Debug/net6.0/number29.pdb
+/Users/alexey/Desktop/hm_seminar/number29/obj/Debug/net6.0/number29.dll
+/Users/alexey/Desktop/hm_seminar/number29/obj/Debug/net6.0/refint/number29.dll
+/Users/alexey/Desktop/hm_seminar/number29/obj/Debug/net6.0/number29.pdb
+/Users/alexey/Desktop/hm_seminar/number29/obj/Debug/net6.0/number29.genruntimeconfig.cache
+/Users/alexey/Desktop/hm_seminar/number29/obj/Debug/net6.0/ref/number29.dll
